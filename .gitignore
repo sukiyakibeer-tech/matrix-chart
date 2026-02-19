@@ -1,0 +1,10 @@
+# コンパイル済みの実行ファイル
+bin/
+*.class
+
+# VS Codeの設定フォルダ
+.vscode/
+
+# OSのゴミファイル
+.DS_Store
+Thumbs.db

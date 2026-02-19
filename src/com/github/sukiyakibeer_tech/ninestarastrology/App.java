@@ -1,4 +1,4 @@
-package io.github.sukiyakibeer.ninestarastrology;
+package com.github.sukiyakibeertech.matrixchart;
 
 /* 九星気学 年盤表示プログラム */
 import java.util.Scanner;

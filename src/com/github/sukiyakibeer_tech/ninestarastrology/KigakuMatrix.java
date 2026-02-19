@@ -1,4 +1,4 @@
-package io.github.sukiyakibeer.ninestarastrology;
+package com.github.sukiyakibeertech.matrixchart;
 
 public class KigakuMatrix {
     // 基準年・基準月の設定
