@@ -1,3 +1,5 @@
+# 関連プロジェクト
+[本命星・月命星算出](https://github.com/sukiyakibeer-tech/honmei_getumei)
 
 # My first commit
 
